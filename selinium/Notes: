@@ -1,0 +1,30 @@
+Notes:
+
+made mistake in is_reversed -- fix it and rerun
+for ss-3-1-clone-2 reduce the learning rate and try.
+try the reward funcs after this fix both in continuous and discrete space.
+
+download - BNGDR32-Model-Opt-clone1
+
+
+0	1.7	    3.80
+1	-0.1	2.60
+2	2.3	    2.90
+3	3.3	    3.20
+4	-9.9	2.30
+5	16.4	2.20
+6	0.1	    4.00
+7	-12.0	3.50
+8	13.6	2.80
+9	29.4	3.20
+10	2.5	    3.50
+11	14.2	3.70
+12	-9.4	3.80
+13	3.9	    2.20
+14	13.4	2.60
+15	-6.2	3.30
+16	-9.5	2.90
+17	10.8	3.40
+18	16.6	3.20
+19	30.0	2.10
+20	-30.0	2.10
